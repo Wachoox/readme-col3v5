@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Wachoox.github.io/readme-col3v5/sitemap.xml
